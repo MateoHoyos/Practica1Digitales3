@@ -1,3 +1,0 @@
-# examples
-
-Miscellaneous examples.

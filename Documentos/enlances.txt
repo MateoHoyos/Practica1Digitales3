@@ -1,0 +1,5 @@
+https://www.google.com/search?q=key+encapsulation+mechanis+diagram&tbm=isch&ved=2ahUKEwjrwIzSkuCEAxU_F1kFHTnzB6oQ2-cCegQIABAA&oq=key+encapsulation+mechanis+diagram&gs_lp=EgNpbWciImtleSBlbmNhcHN1bGF0aW9uIG1lY2hhbmlzIGRpYWdyYW1I5jxQ9w1Y_TlwAHgAkAEBmAG5A6ABth2qAQowLjI0LjIuMC4xuAEDyAEA-AEBigILZ3dzLXdpei1pbWfCAgcQABiABBgTwgIIEAAYBxgeGBPCAgUQABiABMICBhAAGAcYHsICCBAAGAUYBxgewgIIEAAYCBgHGB6IBgE&sclient=img&ei=saXoZaukDL-u5NoPueaf0Ao&bih=610&biw=1364&client=opera&hs=J0x
+https://scholar.google.com/scholar?hl=es&as_sdt=0%2C5&q=ML-KEM&btnG=
+https://eprint.iacr.org/search?q=Lattice-based%20Cryptography
+https://csrc.nist.gov/Events/2022/fourth-pqc-standardization-conference
+https://github.com/search?q=samplentt&type=code&p=1
